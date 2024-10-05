@@ -41,3 +41,21 @@
     padding-top: 49px;
     
 }
+.main-div {
+    width: 1236px;
+    margin-left: 99px;
+    padding-top: 67px;
+}
+.div-photo  {
+    width: 285px;
+    background-color: #F4F5F7;
+}
+.h3 {
+    font-size: 24px;
+    padding-left: 16px;
+    padding-top: 16px;
+}
+.p1 {
+    padding-left: 16px;
+    font-size: 16px;
+}
