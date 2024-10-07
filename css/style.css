@@ -31,24 +31,33 @@
     padding-left: 75px;
 }
 /*main styles*/
+.section-div {
+    width: 100%;
+}
 .img-1 {
     width: 100%;
     
 }
 .h1 {
     font-size: 40px;
+    line-height: 48px;
     text-align: center;
     padding-top: 49px;
     
 }
 .main-div {
     width: 1236px;
-    margin-left: 99px;
+   margin: auto;
     padding-top: 67px;
+   height: 446px;
+  
 }
 .div-photo  {
     width: 285px;
+    height: 446px;
     background-color: #F4F5F7;
+    display: inline-block;
+    margin-right: 32px;
 }
 .h3 {
     font-size: 24px;
@@ -57,5 +66,111 @@
 }
 .p1 {
     padding-left: 16px;
+    padding-top: 8px;
     font-size: 16px;
+}
+.little-boxes {
+    margin-right: 0px;
+}
+.section-2 {
+    width: 1183px;
+    margin: 74px auto ;
+}
+.h-2 {
+    text-align: center;
+    font-size: 32px;
+    line-height: 48px;
+}
+.p2 {
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+}
+.img-div {
+    margin-top: 62.29px;
+    width: 381px;
+    display: inline-block;
+    margin-right: 20px;
+}
+.h-3 {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 24px;
+    line-height: 36px;
+}
+.margin-r {
+    margin-right: 0px;
+}
+.section-3 {
+    width: 1239px;
+    margin: 133px auto ;
+}
+.h-33 {
+    font-size: 20px;
+    line-height: 36px;
+    padding-left: 110px;
+    display: inline-block;
+}
+.p-3 {
+    font-size: 16px;
+    width: 1026px;
+    padding-top: 37px;
+    padding-left: 110px;
+}
+.p-4 {
+    font-size: 16px;
+    padding-left: 110px;
+    padding-top: 30px;
+    width: 1026px;
+    font-weight: 400;
+}
+.back-g {
+    background-color: #FAF3EA;
+    display: inline-block;
+    margin-right: 29px;
+}
+.back-gg {
+    margin-right: 0px;
+}
+.images-div {
+    padding-top: 36px;
+}
+.section-4 {
+    height: 270px;
+    margin: 150px auto;
+    background-color: #FAF3EA;
+}
+.section-4-div {
+    padding: 100px 53px;
+}
+.div-1 {
+    width: 267px;
+    display: inline-block;
+}
+.h-44 {
+    font-size: 25px;
+
+}
+.p-5 {
+    font-size: 20px;
+}
+.div-2 {
+    width: 328px;
+    display: inline-block;
+    margin-right: 78.67px;
+    text-align: right;
+}
+.div-3 {
+    width: 244px;
+    display: inline-block;
+    margin-right: 78.67px;
+}
+
+.div-4 {
+    width: 259px;
+    display: inline-block;
+    margin-right: 78.67px;
+}
+.h-55 {
+    
 }
