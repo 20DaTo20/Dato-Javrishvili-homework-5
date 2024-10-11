@@ -1,11 +1,12 @@
 /* header styles*/
 
+
 .header {
     width: 100%;
     height: 100px;
 }
 .header-div {
-    width: 684px;
+    
     height: 41px;
     padding-left: 54px;
     padding-top: 29px;
@@ -18,7 +19,15 @@
 .list-1 {
     display: inline-block;
     font-size: 16px;
+    
 }
+.font {
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+   
+}
+
 .image {
     display: inline-block;
     vertical-align: middle;
@@ -43,6 +52,10 @@
     line-height: 48px;
     text-align: center;
     padding-top: 49px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+      
     
 }
 .main-div {
@@ -63,11 +76,17 @@
     font-size: 24px;
     padding-left: 16px;
     padding-top: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
 }
 .p1 {
     padding-left: 16px;
     padding-top: 8px;
     font-size: 16px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
 }
 .little-boxes {
     margin-right: 0px;
@@ -80,11 +99,17 @@
     text-align: center;
     font-size: 32px;
     line-height: 48px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 .p2 {
     text-align: center;
     font-size: 20px;
     line-height: 30px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 .img-div {
     margin-top: 62.29px;
@@ -97,6 +122,9 @@
     padding-top: 30px;
     font-size: 24px;
     line-height: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
 }
 .margin-r {
     margin-right: 0px;
@@ -110,12 +138,18 @@
     line-height: 36px;
     padding-left: 110px;
     display: inline-block;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
 .p-3 {
     font-size: 16px;
     width: 1026px;
     padding-top: 37px;
     padding-left: 110px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .p-4 {
     font-size: 16px;
@@ -123,6 +157,9 @@
     padding-top: 30px;
     width: 1026px;
     font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .back-g {
     background-color: #FAF3EA;
@@ -140,9 +177,11 @@
     margin: 150px auto;
     background-color: #FAF3EA;
 }
-.section-4-div {
-    padding: 100px 53px;
-    
+.section4-div {
+    width: 1334px;
+    height: 70px;
+    padding-top: 100px;
+    margin: 0px auto;
 }
 .div-1 {
     width: 267px;
@@ -150,28 +189,35 @@
 }
 .h-44 {
     font-size: 25px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
 
 }
 .p-5 {
     font-size: 20px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
 }
 .div-2 {
-    width: 328px;
+    width: 258px;
     display: inline-block;
-    margin-right: 78.67px;
-    text-align: right;
+    
 }
 .div-3 {
-    width: 244px;
+    width: 174px;
     display: inline-block;
-    margin-right: 78.67px;
+    
 }
 
 .div-4 {
-    width: 259px;
+    width: 189px;
     display: inline-block;
-    margin-right: 78.67px;
-}
-.h-55 {
     
+}
+
+
+.distance {
+    margin: 0px 148px;
 }
